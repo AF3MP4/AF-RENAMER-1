@@ -36,7 +36,7 @@ async def help_handler(c: Client, m: "types.Message"):
              "<b>𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝙼𝙴 𝙼𝙴𝙳𝙸𝙰 𝙰𝙽𝙳 𝚁𝙴𝙿𝙻𝚈 𝙸𝚃 𝚆𝙸𝚃𝙷 /rename .</b>\n\n"
              "<b>𝚃𝙾 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝙸𝙼𝙰𝙶𝙴 𝚆𝙸𝚃𝙷 /set_thumbnail</b>\n\n"
              "<b>𝚃𝙾 𝚂𝙴𝙴 𝙲𝚄𝚂𝚃𝙾𝙼 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻 /show_thumbnail</b>\n\n"
-             "<b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/AF_KINGbot>AF</a></b>\n\n"
+             "<b> ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/AF_KINGbot>AF</a></b>\n\n"
              "<b>Sᴜᴘᴘᴏʀᴛ ᴏɴ <a href=https://youtube.com/channel/UCJpGpk7DKk-xxhoiWWUR_Sw>YᴏᴜTᴜʙᴇ ❣️</a></b>",
         reply_markup=types.InlineKeyboardMarkup([[
            types.InlineKeyboardButton("𝙱𝙾𝚃 𝚂𝙴𝚃𝚃𝙸𝙽𝙶𝚂",
