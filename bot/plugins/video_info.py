@@ -33,7 +33,7 @@ async def video_info_handler(c: Client, m: Message):
     if filesystem_free() < 5000000000:
         return await m.reply_text(
             "Because of less server space I can't do this task right now !!\n\n"
-            "Please try again after some time or use @AHToolsBot to do same task.",
+            "Please try again after some time.",
             True
         )
     if (not m.reply_to_message) or (len(m.command) == 1):
