@@ -21,5 +21,5 @@ class Config(object):
     PRO_USERS = list(set(int(x) for x in os.environ.get("PRO_USERS", "0").split()))
     PRO_USERS.append(OWNER_ID)
     MONGODB_URI = os.environ.get("MONGODB_URI", "mongodb+srv://aflahk80:aflah12345@cluster0.h7rhn.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001761282961"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001593625135"))
     BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", "False"))
